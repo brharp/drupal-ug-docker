@@ -1,0 +1,6 @@
+[drupal]
+name=Drupal
+baseurl=http://www.uoguelph.ca/ccs/repos/drupal/drupal-$releasever
+enabled=0
+skip_if_unavailable=1
+gpgcheck=0
